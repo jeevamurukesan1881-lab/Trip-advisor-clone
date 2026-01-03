@@ -6,7 +6,7 @@ A modern, responsive front-end clone of the Tripadvisor homepage. This project w
 
 ## 🚀 Live Demo
 Check out the live version of this project:  
-**[👉 Insert Your GitHub Pages Link Here]**
+   **[👉 https://jeevamurukesan1881-lab.github.io/Trip-advisor-clone/]**
 
 ---
 
