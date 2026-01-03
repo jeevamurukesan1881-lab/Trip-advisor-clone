@@ -22,14 +22,4 @@ Check out the live version of this project:
 * **CSS3:** Custom properties (variables), Flexbox, and Grid.
 * **Icons:** [Font Awesome](https://fontawesome.com/) / [Google Material Icons].
 
----
 
-
----
-
-## 📂 Installation & Usage
-If you want to run this project locally:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
